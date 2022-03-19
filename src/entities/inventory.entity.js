@@ -3,20 +3,20 @@ export default class Inventory {
   id;
 
   //integer
-  #productId;
+  productId;
 
   //integer
-  #providerId;
+  providerId;
 
   //dateTime
-  #purchaseDate;
+  purchaseDate;
 
   //integer
-  #totalArticlePurchased;
+  totalArticlePurchased;
 
   //integer
-  #totalPrice;
+  totalPrice;
 
   //integer
-  #individualArticlePrice;
+  individualArticlePrice;
 }

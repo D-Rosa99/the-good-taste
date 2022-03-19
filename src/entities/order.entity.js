@@ -15,7 +15,7 @@ export default class Order {
   orderType;
 
   //integer
-  userId;
+  clientId;
 
   //string
   paymentMethod;
