@@ -3,20 +3,20 @@ export default class Product {
   id;
 
   //string
-  #productName;
+  productName;
 
   //string
-  #description;
+  description;
 
   //boolean
-  #canExpireProduct;
+  canExpireProduct;
 
   //date
-  #expirationDate;
+  expirationDate;
 
   //integer
-  #sellPrice;
+  sellPrice;
 
   //integer
-  #productTypeId;
+  productTypeId;
 }

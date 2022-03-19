@@ -3,14 +3,14 @@ export default class Provider {
   id;
 
   //string
-  #providerName;
+  providerName;
 
   //string
-  #cellPhone;
+  phoneNumber;
 
   //string
-  #email;
+  email;
 
   //string
-  #description;
+  description;
 }

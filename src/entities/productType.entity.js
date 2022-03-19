@@ -3,5 +3,5 @@ export default class ProductType {
   id;
 
   //string
-  #productTypeName;
+  productTypeName;
 }
